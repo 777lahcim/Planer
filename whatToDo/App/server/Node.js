@@ -24,7 +24,7 @@ const logger = require('./logger');
 
 // Konfiguracja Sentry
 Sentry.init({
-  dsn: "https://394f7162ed14951eb1751601ad5b8f41@o4508630583541760.ingest.de.sentry.io/4508630632693840",
+  dsn: "...",
   tracesSampleRate: 1.0,
   profilesSampleRate: 1.0,
 });
